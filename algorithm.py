@@ -16,4 +16,4 @@ def area_triangle(a,b,c):
     return abs(area)
 
 def checkagain():
-    print('Hmmm')
+    return 'Hmmm'
