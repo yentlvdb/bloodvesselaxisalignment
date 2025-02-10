@@ -14,3 +14,6 @@ def area_triangle(a,b,c):
     sp = (aa+bb+cc)/2
     area = np.sqrt(sp * (sp - aa) * (sp - bb) * (sp - cc))
     return abs(area)
+
+def checkagain():
+    print('Hmmm')
